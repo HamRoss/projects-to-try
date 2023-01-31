@@ -1,0 +1,11 @@
+Reviewbadoo
+Cricket score board or scoring system
+What score a batsman needs to get an average
+WhatsApp Facebook Chatbot for a restaurant/cafe/local business
+Christmas card list
+Website affiliate site for fidget toys
+Download ingredient amounts and serving and import them into My Fitness Pal
+Instagram upload menu pictures to website {meal of the day}
+From Instagram api? 
+Seasonal veg recipe finder for each month
+London Marathon step counter that tells users every time they cover marathon distance. For charity partner to encourage people to donate
